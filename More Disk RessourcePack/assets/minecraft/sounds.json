@@ -1,0 +1,64 @@
+{
+"music_disc.spookyscaryskeletons": {
+    "sounds": [
+        {
+            "name": "records/spookyscaryskeletons",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.strangerthings": {
+    "sounds": [
+        {
+            "name": "records/strangerthings",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.kainvinosecthenothingbattlesendureemptiness": {
+    "sounds": [
+        {
+            "name": "records/kainvinosecthenothingbattlesendureemptiness",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.kainvinosecthenothingbattlesfightforquiescence": {
+    "sounds": [
+        {
+            "name": "records/kainvinosecthenothingbattlesfightforquiescence",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.thefatratunity": {
+    "sounds": [
+        {
+            "name": "records/thefatratunity",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.thefatratxenogenesis": {
+    "sounds": [
+        {
+            "name": "records/thefatratxenogenesis",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.envuprise": {
+    "sounds": [
+        {
+            "name": "records/envuprise",
+            "stream": true
+        }
+    ]
+}
+}
