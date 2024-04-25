@@ -1,0 +1,9 @@
+execute if score @e[type=marker,tag=is_jukebox_marker,distance=..0.1,limit=1] is_disc_id matches 1 run function netherrp_more_disk_dp:envuprise/play
+execute if score @e[type=marker,tag=is_jukebox_marker,distance=..0.1,limit=1] is_disc_id matches 2 run function netherrp_more_disk_dp:kainvinosecthenothingbattlesendureemptiness/play
+execute if score @e[type=marker,tag=is_jukebox_marker,distance=..0.1,limit=1] is_disc_id matches 3 run function netherrp_more_disk_dp:kainvinosecthenothingbattlesfightforquiescence/play
+execute if score @e[type=marker,tag=is_jukebox_marker,distance=..0.1,limit=1] is_disc_id matches 4 run function netherrp_more_disk_dp:spookyscaryskeletons/play
+execute if score @e[type=marker,tag=is_jukebox_marker,distance=..0.1,limit=1] is_disc_id matches 5 run function netherrp_more_disk_dp:cfouroneeightstrangerthings/play
+execute if score @e[type=marker,tag=is_jukebox_marker,distance=..0.1,limit=1] is_disc_id matches 6 run function netherrp_more_disk_dp:thefatratunity/play
+execute if score @e[type=marker,tag=is_jukebox_marker,distance=..0.1,limit=1] is_disc_id matches 7 run function netherrp_more_disk_dp:thefatratxenogenesis/play
+execute if score @e[type=marker,tag=is_jukebox_marker,distance=..0.1,limit=1] is_disc_id matches 8 run function netherrp_more_disk_dp:galshirevolutionwolves/play
+execute if score @e[type=marker,tag=is_jukebox_marker,distance=..0.1,limit=1] is_disc_id matches 9 run function netherrp_more_disk_dp:yvthelookingforsomethingtosearch/play

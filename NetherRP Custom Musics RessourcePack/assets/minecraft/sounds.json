@@ -1,0 +1,74 @@
+{
+    "music_disc.envuprise": {
+        "sounds": [
+            {
+                "name": "records/envuprise",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.kainvinosecthenothingbattlesendureemptiness": {
+        "sounds": [
+            {
+                "name": "records/kainvinosecthenothingbattlesendureemptiness",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.kainvinosecthenothingbattlesfightforquiescence": {
+        "sounds": [
+            {
+                "name": "records/kainvinosecthenothingbattlesfightforquiescence",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.spookyscaryskeletons": {
+        "sounds": [
+            {
+                "name": "records/spookyscaryskeletons",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.cfouroneeightstrangerthings": {
+        "sounds": [
+            {
+                "name": "records/cfouroneeightstrangerthings",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.thefatratunity": {
+        "sounds": [
+            {
+                "name": "records/thefatratunity",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.thefatratxenogenesis": {
+        "sounds": [
+            {
+                "name": "records/thefatratxenogenesis",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.galshirevolutionwolves": {
+        "sounds": [
+            {
+                "name": "records/galshirevolutionwolves",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.yvthelookingforsomethingtosearch": {
+        "sounds": [
+            {
+                "name": "records/yvthelookingforsomethingtosearch",
+                "stream": true
+            }
+        ]
+    }
+}

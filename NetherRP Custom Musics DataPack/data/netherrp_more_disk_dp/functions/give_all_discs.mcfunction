@@ -1,0 +1,9 @@
+execute at @s run function netherrp_more_disk_dp:give_envuprise
+execute at @s run function netherrp_more_disk_dp:give_kainvinosecthenothingbattlesendureemptiness
+execute at @s run function netherrp_more_disk_dp:give_kainvinosecthenothingbattlesfightforquiescence
+execute at @s run function netherrp_more_disk_dp:give_spookyscaryskeletons
+execute at @s run function netherrp_more_disk_dp:give_cfouroneeightstrangerthings
+execute at @s run function netherrp_more_disk_dp:give_thefatratunity
+execute at @s run function netherrp_more_disk_dp:give_thefatratxenogenesis
+execute at @s run function netherrp_more_disk_dp:give_galshirevolutionwolves
+execute at @s run function netherrp_more_disk_dp:give_yvthelookingforsomethingtosearch

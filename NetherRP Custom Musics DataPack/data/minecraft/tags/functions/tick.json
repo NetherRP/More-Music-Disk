@@ -1,0 +1,6 @@
+{
+    "values": [
+        "netherrp_more_disk_dp:register_players_tick",
+        "netherrp_more_disk_dp:jukebox_event_tick"
+    ]
+}
