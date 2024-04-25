@@ -10,6 +10,8 @@ Current musics:
 - C418 - Stranger Things
 - TheFatRat - Unity
 - TheFatRat - Xenogenesis
+- Yvthe - Looking for something to search
+- Galshi Revolution - Wolves
 
 If you have any suggestions, please tell us on our Discord!
 Discord: https://discord.gg/pVKWS3Cepc
