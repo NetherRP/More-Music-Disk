@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom_music_discs:item/the_nothing_battles_endure_emptiness"
+  }
+}

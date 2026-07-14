@@ -1,0 +1,58 @@
+{
+  "music_disc.spooky_scary_skeletons": {
+    "sounds": [
+      {
+        "name": "custom_music_discs:records/spooky_scary_skeletons",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.stranger_things": {
+    "sounds": [
+      {
+        "name": "custom_music_discs:records/stranger_things",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_nothing_battles_endure_emptiness": {
+    "sounds": [
+      {
+        "name": "custom_music_discs:records/the_nothing_battles_endure_emptiness",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_nothing_battles_fight_for_quiescence": {
+    "sounds": [
+      {
+        "name": "custom_music_discs:records/the_nothing_battles_fight_for_quiescence",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.thefatrat_unity": {
+    "sounds": [
+      {
+        "name": "custom_music_discs:records/thefatrat_unity",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.thefatrat_xenogenesis": {
+    "sounds": [
+      {
+        "name": "custom_music_discs:records/thefatrat_xenogenesis",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.env_uprise": {
+    "sounds": [
+      {
+        "name": "custom_music_discs:records/env_uprise",
+        "stream": true
+      }
+    ]
+  }
+}

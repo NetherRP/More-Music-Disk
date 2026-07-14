@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "custom_music_discs:stranger_things",
+                "minecraft:jukebox_playable": "custom_music_discs:stranger_things"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

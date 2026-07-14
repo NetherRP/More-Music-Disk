@@ -1,6 +1,13 @@
 {
-    "pack": {
-        "pack_format": 12,
-        "description": "Just add a few music disks to the game"
-    }
+  "pack": {
+    "description": "More Music Discs — Datapack pour Minecraft Java 26.2",
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": [
+      107,
+      1
+    ]
+  }
 }

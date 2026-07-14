@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "custom_music_discs:music_disc.env_uprise"
+  },
+  "description": {
+    "text": "EnV - Uprise",
+    "color":  "gold"
+  },
+  "length_in_seconds": 219.82619,
+  "comparator_output": 7
+}

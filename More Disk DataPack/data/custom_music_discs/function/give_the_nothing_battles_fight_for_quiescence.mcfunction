@@ -1,0 +1,1 @@
+loot give @s loot custom_music_discs:discs/the_nothing_battles_fight_for_quiescence

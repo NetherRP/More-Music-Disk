@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "custom_music_discs:music_disc.the_nothing_battles_fight_for_quiescence"
+  },
+  "description": {
+    "text": "Kain Vinosec - The Nothing Battles: Fight for Quiescence",
+    "color": "dark_purple"
+  },
+  "length_in_seconds": 228.034833,
+  "comparator_output": 4
+}

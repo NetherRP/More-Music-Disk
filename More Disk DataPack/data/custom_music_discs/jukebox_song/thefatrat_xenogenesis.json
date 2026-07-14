@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "custom_music_discs:music_disc.thefatrat_xenogenesis"
+  },
+  "description": {
+    "text": "TheFatRat - Xenogenesis",
+    "color": "yellow"
+  },
+  "length_in_seconds": 235.496167,
+  "comparator_output": 6
+}

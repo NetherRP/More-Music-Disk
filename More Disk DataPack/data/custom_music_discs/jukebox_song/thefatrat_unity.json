@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "custom_music_discs:music_disc.thefatrat_unity"
+  },
+  "description": {
+    "text": "TheFatRat - Unity",
+    "color": "gray"
+  },
+  "length_in_seconds": 249.0215,
+  "comparator_output": 5
+}

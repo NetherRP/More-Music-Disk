@@ -1,6 +1,13 @@
 {
-    "pack": {
-        "pack_format": 13,
-        "description": "Just add a few music disk"
-    }
+  "pack": {
+    "description": "More Music Discs — Resource pack pour Minecraft Java 26.2",
+    "min_format": [
+      88,
+      0
+    ],
+    "max_format": [
+      88,
+      0
+    ]
+  }
 }

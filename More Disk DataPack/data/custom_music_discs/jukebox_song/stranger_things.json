@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "custom_music_discs:music_disc.stranger_things"
+  },
+  "description": {
+    "text": "C418 - Stranger Things",
+    "color": "red"
+  },
+  "length_in_seconds": 247.874833,
+  "comparator_output": 2
+}
